@@ -1,13 +1,9 @@
-# Robot performance analysis
-project video - https://youtu.be
+# foldablerobot
 
-/8CPUg78EOZw
-
-robot motion video - https://www.youtube .com/watch?v=7wfLv5qTLVk
 *Automatically synced with your [v0.app](https://v0.app) deployments*
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/dheerajreddypashams-projects/v0-robot-performance-analysis)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/vhuzPTnAlsM)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/dpasham1-dotcoms-projects/v0-foldablerobot)
+[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/5mdpbVuMtjR)
 
 ## Overview
 
@@ -18,13 +14,13 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/dheerajreddypashams-projects/v0-robot-performance-analysis](https://vercel.com/dheerajreddypashams-projects/v0-robot-performance-analysis)**
+**[https://vercel.com/dpasham1-dotcoms-projects/v0-foldablerobot](https://vercel.com/dpasham1-dotcoms-projects/v0-foldablerobot)**
 
 ## Build your app
 
 Continue building your app on:
 
-**[https://v0.app/chat/vhuzPTnAlsM](https://v0.app/chat/vhuzPTnAlsM)**
+**[https://v0.app/chat/5mdpbVuMtjR](https://v0.app/chat/5mdpbVuMtjR)**
 
 ## How It Works
 
@@ -32,4 +28,3 @@ Continue building your app on:
 2. Deploy your chats from the v0 interface
 3. Changes are automatically pushed to this repository
 4. Vercel deploys the latest version from this repository
-5. Netlify for web deplyoment

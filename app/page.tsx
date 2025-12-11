@@ -1,7 +1,9 @@
 import { HeroSection } from "@/components/hero-section"
 import { ExecutiveSummary } from "@/components/executive-summary"
+import { ProjectVideos } from "@/components/project-videos"
 import { TableOfContents } from "@/components/table-of-contents"
 import { IntroductionSection } from "@/components/introduction-section"
+import { VideosSection } from "@/components/videos-section"
 import { SystemModelSection } from "@/components/system-model-section"
 import { ParameterIdentificationSection } from "@/components/parameter-identification-section"
 import { OptimizationSection } from "@/components/optimization-section"
@@ -17,8 +19,10 @@ export default function Home() {
     <main className="min-h-screen bg-background">
       <HeroSection />
       <ExecutiveSummary />
+      <ProjectVideos />
       <TableOfContents />
       <IntroductionSection />
+      <VideosSection />
       <SystemModelSection />
       <ParameterIdentificationSection />
       <OptimizationSection />
