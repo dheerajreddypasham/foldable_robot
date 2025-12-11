@@ -1,5 +1,9 @@
 # Robot performance analysis
+project video - https://youtu.be
 
+/8CPUg78EOZw
+
+robot motion video - https://www.youtube .com/watch?v=7wfLv5qTLVk
 *Automatically synced with your [v0.app](https://v0.app) deployments*
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/dheerajreddypashams-projects/v0-robot-performance-analysis)
